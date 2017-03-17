@@ -1,0 +1,22 @@
+Name of the Queries
+* * * * * * * * * * * * * * * * * * * * * * * * * * * 
+- possiblevuln
+- sshmachines
+- allservices
+- services
+- unknown_version_up
+- unknown_banner_up
+- machines
+- sdump
+- mdump
+- servicesup
+- unknownversion
+- unknownbanner
+- machine_audit
+- service_audit
+- latestinfo_audit
+- latestinfo
+- latestchange
+- servicestate
+- uptimeratio
+- monthlyreport
